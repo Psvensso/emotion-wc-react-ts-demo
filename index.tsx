@@ -1,2 +1,0 @@
-import "./ReactGreetingWebComponent";
-import "./BasicWebComponent";

@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "jsx": "react",
+    "rootDir": "src",
+    "outDir": "lib",
+    "target": "ESNext",
+    "allowJs": true,
+
+    "suppressImplicitAnyIndexErrors": true,
+    /* Basic Options */
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "newLine": "LF",
+    "declaration": false,
+    "declarationMap": false,
+    "composite": false,
+    "lib": ["dom"],
+    /* Strict Type-Checking Options */
+    "strict": true,
+    /* Additional Checks */
+    "noUnusedLocals": true,
+    /* Report errors on unused locals. */
+    "noUnusedParameters": true,
+    /* Report errors on unused parameters. */
+    "noImplicitReturns": true,
+    /* Report error when not all code paths in function return a value. */
+    "noFallthroughCasesInSwitch": true
+    /* Report errors for fallthrough cases in switch statement. */
+  },
+  "exclude": ["node_modules"],
+  "include": ["src/**/*"]
+}
