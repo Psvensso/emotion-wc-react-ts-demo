@@ -7,8 +7,7 @@ export const Greeting = ({ name }: { name: string }) => {
   const base = css`
     ${x.toString()}
   `;
-  console.log(base);
-  console.log(x.toString());
+
   return (
     <div
       className={css`
