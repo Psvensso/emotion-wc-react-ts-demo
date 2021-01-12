@@ -1,3 +1,9 @@
-* {
+/* Should only affect local shadow */
+p {
   text-decoration: underline !important;
+}
+
+/* Should not leak out */
+body {
+  color: blue;
 }
