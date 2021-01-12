@@ -1,3 +1,8 @@
-# react-ts-xvxj5n
+- Webpack basic config via just-scripts (microsoft's)
+- Simple webcomponent's via LitElement (shadow enabled)
+- Emotion singleton via React context
+- Emotion singleton in a Webcomponent
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-xvxj5n)
+`npm install`
+
+`npm start`
