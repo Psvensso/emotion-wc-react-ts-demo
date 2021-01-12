@@ -1,3 +1,3 @@
-# react-ts-xvxj5n
+`npm install`
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-xvxj5n)
+`npm start`
